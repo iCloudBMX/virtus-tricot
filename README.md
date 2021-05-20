@@ -1,1 +1,1 @@
-"# virtus-tricot" 
+Virtus-Tricot bot
